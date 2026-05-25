@@ -1,7 +1,7 @@
 {
-  "data_version": "20260526",
+  "data_version": "20260527",
   "min_app_version": "1.0.0",
   "pan_url": "https://pan.baidu.com/s/1tHyxWXNQjZjNyfxVg0gj-A?pwd=1822",
-  "pan_file_name": "词库更新包_20260526.zip",
-  "changelog": "首版词库：5 品类模板、违禁词、语气预设与 AI 平台列表。有更新时请下载网盘 zip 后按软件提示安装。"
+  "pan_file_name": "词库更新包_20260527.zip",
+  "changelog": "词库 v20260527：与 v20260526 同步维护版本号，便于验证在线更新流程。安装后请点「重新加载词库」。"
 }
