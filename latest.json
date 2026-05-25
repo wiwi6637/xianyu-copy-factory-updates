@@ -1,7 +1,7 @@
 {
-  "data_version": "20260528",
+  "data_version": "20260529",
   "min_app_version": "1.0.0",
   "pan_url": "https://pan.baidu.com/s/1tHyxWXNQjZjNyfxVg0gj-A?pwd=1822",
-  "pan_file_name": "词库更新包_20260528.zip",
-  "changelog": "词库 v20260528：测试在线更新。安装后请在软件内点「更新加载词库」刷新。"
+  "pan_file_name": "词库更新包_20260529.zip",
+  "changelog": "词库 v20260529：修正网盘下载目录自动识别与安装；支持 backup\\installed 及任意路径下的更新包。安装后点「更新加载词库」或刷新页面即可。"
 }
